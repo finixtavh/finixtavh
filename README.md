@@ -15,7 +15,7 @@ I am also learning Python, Powershell, bash and Linux (Yes, the SO terminal, etc
 
 ## Personal Projects
 - [TPPRPG](https://github.com/lolelamo/TPPRPG): Currently working on it, its a Text-Based RPG that reads the enemy data, and many other things from .JSONs .  
-- [calc](https://github.com/lolelamo/calc): simple calculator, my first finished personal project.
+- [calc](https://github.com/lolelamo/calc): simple calculator, my first "proyect" and repo.
 
 ## Discord
 Discord: minimo_es_hacker 

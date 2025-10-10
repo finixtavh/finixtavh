@@ -1,7 +1,7 @@
 # o7
 im lole aka finixtavh i speak both Spanish and English (still learning)
 Currently studying programming.
-I am also learning Python, Powershell, bash and Linux (Yes, the SO terminal, etc) in a self-taught way
+I am also learning Python, Powershell, bash and Linux in a self-taught way
 
 ## Currently im learning these languages: 
 - PowerShell 

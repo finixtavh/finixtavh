@@ -20,6 +20,9 @@ I am also learning Python, Powershell, bash and Linux in a self-taught way
 - [calc](https://github.com/lolelamo/calc): simple calculator, my first "proyect" and repo.
 - [eve online payments](https://github.com/lolelamo/eve-online-payments-site): Currently working on it, for a faster and more convenient distribution of ISKies. still on pretty early development, trying to learn CSS, HTML and Java, rewriting the app.py
 
+## Old projects that sometimes I work on
+- [netsh](https://github.com/finixtavh/netsh-simple-script): A pretty old Netsh script i used for learning Powershell, this is where I tried Powershell
+  
 ## Hobies
 - EvE Online
 - Learning chess

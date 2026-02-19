@@ -30,9 +30,9 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 - Arch Linux
 - Hyprland
 
-## Social:
-Discord: finixtavh
-Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
+## "Social":
+- Discord: finixtavh
+- Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
 
 
 

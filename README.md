@@ -22,9 +22,9 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 - [eve online payments](https://github.com/lolelamo/eve-online-payments-site): Currently working on it, for a faster and more convenient distribution of ISKies. still on pretty early development, trying to learn CSS, HTML and Java, rewriting the app.py
 
 ## Old projects that sometimes I work on
-- [netsh](https://github.com/finixtavh/netsh-simple-script): A pretty old Netsh script i used for learning Powershell, this is where I tried Powershell
+- [netsh](https://github.com/finixtavh/netsh-simple-script): A pretty old Netsh script i used for learning Powershell, this is where I first tried Powershell, i was just messing with the netsh command :d.
   
-## Hobies
+## Hobbies
 - EvE Online, HoI4
 - Learning chess
 - Arch Linux

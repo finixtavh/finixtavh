@@ -2,7 +2,7 @@
 I'm lole (aka finixtavh).  
 I speak Spanish and English, and I'm currently learning German.
 
-Currently studying programming.
+Currently studying programming and looking to move onto Cybersecurity.
 
 I am currently learning Python, PowerShell, Bash and Linux  
 (I use Arch + Hyprland btw).

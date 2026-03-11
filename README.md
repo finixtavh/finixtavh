@@ -3,14 +3,15 @@ im lole aka finixtavh i speak both Spanish and English (still learning)
 Currently studying programming.
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
 
-## Currently im learning these languages: 
+## Currently im learning these programming languages: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- German
-- English
+## Languages
+![English](https://img.shields.io/badge/English-0078D7?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Deutsch](https://img.shields.io/badge/Deutsch-000000?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ## Interested in
 - Cybersecurity

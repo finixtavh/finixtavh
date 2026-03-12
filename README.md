@@ -40,9 +40,9 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 - Arch Linux
 - Hyprland
 
+[![Lolewe](https://github-readme-stats.vercel.app/api?username=finixtavh)](https://github.com/finixtavh/github-readme-stats)
+
 ## "Social":
 - Discord: finixtavh
 - Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
-
-
 

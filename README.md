@@ -40,7 +40,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 - Arch Linux
 - Hyprland
 transparent
-[![Lolewe](https://github-readme-stats.vercel.app/api?username=finixtavh)](https://github.com/finixtavh/github-readme-stats&show_icons=true&theme=transparent)
+![Lolewe](https://github-readme-stats.vercel.app/api?username=finixtavh&show_icons=true&theme=transparent)
 
 ## "Social":
 - Discord: finixtavh

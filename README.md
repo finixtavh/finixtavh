@@ -21,20 +21,20 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ## Other stuff: 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Interested in
+## Interested in:
 - Cybersecurity
 - Ethical Hacking
 - Pentesting
 
-## Personal Projects
+## Personal Projects:
 - [TPPRPG](https://github.com/lolelamo/TPPRPG): Currently working on it, its a Text-Based RPG that reads #?, and many other things from .JSONs
 - [calc](https://github.com/lolelamo/calc): simple calculator, my first "proyect" and repo.
 - [eve online payments](https://github.com/lolelamo/eve-online-payments-site): Currently working on it, for a faster and more convenient distribution of ISKies. still on pretty early development, trying to learn CSS, HTML and Java, rewriting the app.py
 
-## Old projects that sometimes I work on
+## Old projects that sometimes I work on:
 - [netsh](https://github.com/finixtavh/netsh-simple-script): A pretty old Netsh script i used for learning Powershell, this is where I first tried Powershell, i was just messing with the netsh command :d.
   
-## Hobbies
+## Hobbies:
 - EvE Online, HoI4
 - Learning chess
 - Arch Linux

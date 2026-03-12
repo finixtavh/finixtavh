@@ -13,7 +13,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## Languages
+## Languages:
 ![Español](https://img.shields.io/badge/Spanish-F3D0D8?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![English](https://img.shields.io/badge/English-0078D7?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Deutsch](https://img.shields.io/badge/Deutsch-000000?style=for-the-badge&logo=googletranslate&logoColor=white)

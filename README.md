@@ -39,8 +39,8 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 - Learning chess
 - Arch Linux
 - Hyprland
-
-[![Lolewe](https://github-readme-stats.vercel.app/api?username=finixtavh)](https://github.com/finixtavh/github-readme-stats)
+transparent
+[![Lolewe](https://github-readme-stats.vercel.app/api?username=finixtavh)](https://github.com/finixtavh/github-readme-stats&show_icons=true&theme=transparent)
 
 ## "Social":
 - Discord: finixtavh

@@ -10,6 +10,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finixtavh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finixtavh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 
@@ -23,10 +24,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finixtavh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### Stats:
 
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=finixtavh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>

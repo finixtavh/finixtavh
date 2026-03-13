@@ -22,10 +22,9 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ### Other:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finixtavh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finixtavh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 

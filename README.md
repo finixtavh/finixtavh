@@ -9,8 +9,8 @@ I am currently learning Python, PowerShell, Bash and Linux
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finixtavh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finixtavh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api?username=finixtavh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api/top-langs/?username=finixtavh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 
@@ -27,7 +27,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ## Stats:
 
 ### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=finixtavh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/graph?username=finixtavh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### Streak Statistics
 <p align="center">
@@ -42,14 +42,14 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 <div align="center">
 
 ### [Netsh-script](https://github.com/finixtavh/netsh-simple-script) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=finixtavh&repo=netsh-simple-script&theme=tokyonight)](https://github.com/finixtavh/netsh-simple-script)
+[![Repo Card](https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api/pin/?username=finixtavh&repo=netsh-simple-script&theme=tokyonight)](https://github.com/finixtavh/netsh-simple-script)
 
 *A pretty old Netsh script i used for learning Powershell, this is where I first tried Powershell, i was just messing with the netsh command :d.*
 
 ---
 
 ### [TPPRPG](https://github.com/finixtavh/TPPRPG) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=finixtavh&repo=TPPRPG&theme=tokyonight)](https://github.com/finixtavh/TPPRPG)
+[![Repo Card](https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api/pin/?username=finixtavh&repo=TPPRPG&theme=tokyonight)](https://github.com/finixtavh/TPPRPG)
 
 *Currently working on it, its a Text-Based RPG that reads #?, and many other things from .JSONs*
 

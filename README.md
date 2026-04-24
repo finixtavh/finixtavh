@@ -52,7 +52,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 <div align="center">
 
 ## "Social":
- Discord: finixtavh
+ Discord: finixtavh <br>
  Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
 
 </div>

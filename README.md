@@ -23,6 +23,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8dec98a0-bee3-43a2-a647-20eec91cd488" />
 
 
 <div align="center">

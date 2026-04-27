@@ -17,7 +17,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ### Programming Languages:
 <div>
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/15a1727e-f08b-426e-9412-5185804ea985" />
+<img width="30" height="auto" alt="image" src="https://github.com/user-attachments/assets/15a1727e-f08b-426e-9412-5185804ea985" />
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5d8bc76a-2eb5-441c-b7e0-8f3ca9688c46" />
 <img width="30" height="30" alt="Bash_Logo_Colored svg" src="https://github.com/user-attachments/assets/019ee71b-e6d1-497f-aba5-ce761fb44afb" />
 <img width="30" height="30" alt="Mysql_logo" src="https://github.com/user-attachments/assets/cf5638d7-4dc2-4904-b82a-3a9596dfad53" />

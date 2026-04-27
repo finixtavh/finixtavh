@@ -8,21 +8,7 @@ I am currently learning Python, PowerShell, Bash and Linux
 (I use Arch + Hyprland btw).
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
 
-<div align="center">
-</div>
-
-
-
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2596BE?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DAE5F0?style=for-the-badge)
-### Other:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black)![PowerShell](https://img.shields.io/badge/PowerShell-FCC624?style=for-the-badge&logo=powershell&logoColor=black)![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black)![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
 
 
 <div align="center">

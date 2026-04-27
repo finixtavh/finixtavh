@@ -18,7 +18,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2596BE?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/MySQL-DAE5F0?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-DAE5F0?style=for-the-badge)
 ### Other:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 

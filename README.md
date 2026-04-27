@@ -10,6 +10,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 
 <div align="center">
 </div>
+<img width="30" height="30" alt="CSS3_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3f0095e7-5bec-481e-bfc0-93cc86ca4a12" />
 
 
 
@@ -23,9 +24,15 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8dec98a0-bee3-43a2-a647-20eec91cd488" />
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/15a1727e-f08b-426e-9412-5185804ea985" />
 
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/15a1727e-f08b-426e-9412-5185804ea985" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5d8bc76a-2eb5-441c-b7e0-8f3ca9688c46" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1268a17-2f8f-4a8c-a031-97290439591e" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ea4786d0-ef27-45d7-8eb7-7d8d3c5a7433" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ad81be16-89bf-4ec5-b806-24e74d85fede" />
+
+<img width="30" height="30" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/0e2eb17d-5c34-4233-b1dd-405965179735" />
+<img width="30" height="30" alt="58480e82cef1014c0b5e4927" src="https://github.com/user-attachments/assets/6c2bede6-aceb-494d-88b7-472ec6ff974d" />
 
 <div align="center">
 

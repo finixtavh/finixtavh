@@ -24,6 +24,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8dec98a0-bee3-43a2-a647-20eec91cd488" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/15a1727e-f08b-426e-9412-5185804ea985" />
 
 
 <div align="center">

@@ -1,4 +1,4 @@
-<img width="80" height="53" alt="{C1692CB2-220D-46E1-BA5B-74880731A574}" src="https://github.com/user-attachments/assets/18b74779-bceb-40f2-bce0-0bb7611a3e7f" /># o7
+o7
 I'm lole (aka finixtavh).  
 I speak Spanish and English, and I'm currently learning German.
 
@@ -21,6 +21,8 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Java](https://img.shields.io/badge/Java-DAE5F0?style=for-the-badge)
 ### Other:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <div align="center">

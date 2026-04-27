@@ -8,8 +8,6 @@ I am currently learning Python, PowerShell, Bash and Linux
 (I use Arch + Hyprland btw).
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
 
-![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black)![PowerShell](https://img.shields.io/badge/PowerShell-FCC624?style=for-the-badge&logo=powershell&logoColor=black)![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black)![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)
-
 
 <div align="center">
 
@@ -18,3 +16,13 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
  Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
 
 </div>
+
+
+![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-FCC624?style=for-the-badge&logo=powershell&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)

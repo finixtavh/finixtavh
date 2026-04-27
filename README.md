@@ -22,7 +22,7 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge)
-<img width="330" height="596" alt="Duke_(Java_mascot)_waving svg" src="https://github.com/user-attachments/assets/9a6270a6-a258-4602-80ea-2ae7711b73bf" />
+<img width="30" height="30" alt="Duke_(Java_mascot)_waving svg" src="https://github.com/user-attachments/assets/9a6270a6-a258-4602-80ea-2ae7711b73bf" />
 </div>
 ### Other:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

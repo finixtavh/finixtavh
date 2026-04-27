@@ -17,36 +17,10 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/My%20SQL?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Other:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-## Stats:
-
-
-### Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finixtavh&theme=tokyonight&hide_border=true"/>
-</p>
-
-## Projects
-
-<div align="center">
-
-### [Netsh-script](https://github.com/finixtavh/netsh-simple-script) 
-[![Repo Card](https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api/pin/?username=finixtavh&repo=netsh-simple-script&theme=tokyonight)](https://github.com/finixtavh/netsh-simple-script)
-
-*A pretty old Netsh script i used for learning Powershell, this is where I first tried Powershell, i was just messing with the netsh command :d.*
-
----
-
-### [TPPRPG](https://github.com/finixtavh/TPPRPG) 
-[![Repo Card](https://github-readme-stats-f82w-5khcff3te-finixtavhs-projects.vercel.app/api/pin/?username=finixtavh&repo=TPPRPG&theme=tokyonight)](https://github.com/finixtavh/TPPRPG)
-
-*Currently working on it, its a Text-Based RPG that reads #?, and many other things from .JSONs*
-
-</div>
 
 
 <div align="center">

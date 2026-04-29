@@ -4,8 +4,6 @@ I speak Spanish and English, and I'm currently learning German.
 
 Currently studying programming and looking to move onto Cybersecurity.
 
-I am currently learning Python, PowerShell, Bash and Linux  
-(I use Arch + Hyprland btw).
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
 
 

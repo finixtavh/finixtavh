@@ -18,10 +18,10 @@ I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND
 <hr>
 
 ![Python](https://img.shields.io/badge/Python-f28781?style=for-the-badge&logo=python&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-FCC624?style=for-the-badge&logo=powershell&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black)
-![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=html5&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-d9909e?style=for-the-badge&logo=powershell&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-d9909e?style=for-the-badge&logo=gnubash&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-d9909e?style=for-the-badge&logo=mysql&logoColor=black)
+![Java](https://img.shields.io/badge/Java-d9909e?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-d9909e?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-d9909e?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=css&logoColor=black)

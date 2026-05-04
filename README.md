@@ -1,5 +1,4 @@
-[My Webpage](https://finixtavh.xyz/) 
-<a href="https://github.com/finixtavh" target="_blank">Mi Github</a>
+<a href="https://finixtavh.xyz" target="_blank">My Webpage</a>
 
 o7
 I'm lole (aka finixtavh).  

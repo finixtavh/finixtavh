@@ -1,4 +1,4 @@
-[Webpage](https://finixtavh.xyz/) 
+[My Webpage](https://finixtavh.xyz/) 
 
 o7
 I'm lole (aka finixtavh).  

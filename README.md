@@ -1,4 +1,5 @@
 [My Webpage](https://finixtavh.xyz/) 
+<a href="https://github.com/finixtavh" target="_blank">Mi Github</a>
 
 o7
 I'm lole (aka finixtavh).  

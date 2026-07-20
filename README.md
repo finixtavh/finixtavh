@@ -7,7 +7,7 @@ I speak Spanish and English, and I'm currently learning German.
 Currently studying programming and looking to move onto Cybersecurity.
 
 I am also ~~learning~~ Trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
-
+rn im looking Rust its kinda fun.
 
 <div align="center">
 

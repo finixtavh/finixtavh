@@ -3,7 +3,7 @@
 o7
 I'm lole (aka finixtavh).  
 I speak Spanish and English, ~~and I'm currently learning German~~.
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2193739199&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yusenhakusetu" title="湯煎白雪" target="_blank" style="color: #cccccc; text-decoration: none;">湯煎白雪</a> · <a href="https://soundcloud.com/yusenhakusetu/before-becoming-an-adult" title="...before becoming an adult w/@XxKOYUKIxX,@ralker" target="_blank" style="color: #cccccc; text-decoration: none;">...before becoming an adult w/@XxKOYUKIxX,@ralker</a></div>
 Currently studying programming and looking to move onto Cybersecurity.
 
 I am also ~~learning~~ trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)

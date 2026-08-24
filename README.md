@@ -4,6 +4,8 @@ o7
 I'm lole (aka finixtavh).  
 I speak Spanish and English, ~~and I'm currently learning German~~.
 
+I mostly play VSRG games like osu!mania, fluxis and Quaver, but I also play Escape From Tarkov (SPT mostly) and War Thunder.
+
 Currently studying programming and looking to move onto Cybersecurity.
 
 I am also ~~learning~~ trying Python, Powershell, bash and Linux (I use arch AND hyprland BTW)
@@ -11,7 +13,7 @@ rn im looking Rust its kinda fun.
 
 <div align="center">
 
-## "Social":
+## "Socials":
  Discord: finixtavh <br>
  Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
 

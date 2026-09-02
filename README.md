@@ -31,4 +31,4 @@ rn im looking Rust its kinda fun.
 ![CSS](https://img.shields.io/badge/CSS-174b8a?style=for-the-badge&logo=css&logoColor=black)
 
 </div>
-![](https://komarev.com/ghpvc/?username=finixtavh&color=174b8a)
+![](https://komarev.com/ghpvc/?username=finixtavh&color=174b8a&style=for-the-badge)

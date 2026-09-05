@@ -15,7 +15,11 @@ concurrency:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
       - name: Generate statistics SVG
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -24,11 +28,6 @@ jobs:
 
       - name: Debug generated SVG
         run: |
-          echo "=== FILE ==="
-          ls -lah profile/
-          echo "=== GIT STATUS ==="
-          git status --short
-          echo "=== GIT TRACKED ==="
           git ls-files profile/github-stats.svg
 
       - name: Commit updated SVG

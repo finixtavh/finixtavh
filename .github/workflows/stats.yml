@@ -28,7 +28,8 @@ jobs:
 
       - name: Debug generated SVG
         run: |
-          git ls-files profile/github-stats.svg
+          ls -la profile/
+          git status --porcelain profile/github-stats.svg
 
       - name: Commit updated SVG
         run: |

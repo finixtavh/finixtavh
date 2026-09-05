@@ -38,6 +38,7 @@ def pages(path, params=None, max_pages=10):
     p=dict(params or {}); p.setdefault('per_page',100); out=[]
     for page in range(1,max_pages+1):
         p['page']=page; chunk=api(path,p)
+        if isinstance(chunk,dict): chunk=chunk.get('items') or []
         if not chunk: break
         out.extend(chunk)
         if len(chunk)<p['per_page']: break

@@ -20,6 +20,9 @@ rn im looking Rust its kinda fun.
 
 
 <hr>
+ <div align="center">
+   <img src="./profile/github-stats.svg" alt="GitHub Development Stats">
+ </div>
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-174b8a?style=for-the-badge&logo=powershell&logoColor=black)
@@ -31,6 +34,8 @@ rn im looking Rust its kinda fun.
 ![CSS](https://img.shields.io/badge/CSS-174b8a?style=for-the-badge&logo=css&logoColor=black)
 
 
+
 ![](https://komarev.com/ghpvc/?username=finixtavh&color=174b8a&style=for-the-badge)
+
 
 </div>

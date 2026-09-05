@@ -29,7 +29,8 @@ rn im looking Rust its kinda fun.
 ![Linux](https://img.shields.io/badge/Linux-174b8a?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-174b8a?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-174b8a?style=for-the-badge&logo=css&logoColor=black)
-</div>
-<div>
+
+
 ![](https://komarev.com/ghpvc/?username=finixtavh&color=174b8a&style=for-the-badge)
+
 </div>

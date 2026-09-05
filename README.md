@@ -21,7 +21,7 @@ rn im looking Rust its kinda fun.
 
 <hr>
  <div align="center">
-   <img src="./profile/github-stats.svg" alt="GitHub Development Stats">
+  [![Update GitHub Development Stats.](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml/badge.svg)](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml)
  </div>
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)

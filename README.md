@@ -20,9 +20,9 @@ rn im looking Rust its kinda fun.
 
 
 <hr>
- <div align="center">
-  [![Update GitHub Development Stats.](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml/badge.svg)](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml)
- </div>
+
+[![Update GitHub Development Stats.](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml/badge.svg)](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml)
+
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-174b8a?style=for-the-badge&logo=powershell&logoColor=black)

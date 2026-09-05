@@ -20,8 +20,6 @@ rn im looking Rust its kinda fun.
 
 <hr>
 
-<img src="./profile/github-stats.svg" alt="GitHub Development Stats">
-
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-174b8a?style=for-the-badge&logo=powershell&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-174b8a?style=for-the-badge&logo=gnubash&logoColor=black)

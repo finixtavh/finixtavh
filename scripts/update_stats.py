@@ -158,16 +158,57 @@ def collect():
 
 
 def render(d):
-    cards=[('COMMITS',compact(d['commits']),'commit history'),('LINES +',compact(d['additions']),'additions'),('LINES -',compact(d['deletions']),'deletions'),('PULL REQUESTS',compact(d['prs']),'authored PRs')]
-    xs=[30,245,460,675]; c=[]
-    for x,(label,value,note) in zip(xs,cards):
-        c.append(f'<rect x="{x}" y="82" width="195" height="112" rx="16" class="card"/><text x="{x+18}" y="112" class="label">{label}</text><text x="{x+18}" y="155" class="value">{value}</text><text x="{x+18}" y="178" class="muted">{note}</text>')
-    rows=[]
-    for i,r in enumerate(d['top_repos'],1):
-        y=308+(i-1)*48
-        rows.append(f'<text x="48" y="{y}" class="rank">{i}</text><text x="82" y="{y}" class="repo">{esc(r["full_name"])}</text><text x="550" y="{y}" class="plus">+{compact(r["additions"])}</text><text x="660" y="{y}" class="minus">-{compact(r["deletions"])}</text><text x="780" y="{y}" class="total">{compact(r["changes"])}</text>')
-    if not rows: rows=['<text x="48" y="320" class="repo">No repository activity found yet.</text>']
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="590" viewBox="0 0 900 590"><style>text{{font-family:"JetBrains Mono","SFMono-Regular",Consolas,monospace}}.bg{{fill:#0d1117}}.panel{{fill:#161b22;stroke:#30363d;stroke-width:1}}.card{{fill:#11161c;stroke:#30363d;stroke-width:1}}.title{{fill:#f0f6fc;font-size:24px;font-weight:700}}.subtitle{{fill:#8b949e;font-size:13px}}.label{{fill:#8b949e;font-size:11px;font-weight:700;letter-spacing:1px}}.value{{fill:#f0f6fc;font-size:28px;font-weight:700}}.muted{{fill:#6e7681;font-size:11px}}.repo{{fill:#c9d1d9;font-size:13px}}.rank{{fill:#6e7681;font-size:13px}}.plus{{fill:#3fb950;font-size:13px;font-weight:700}}.minus{{fill:#f85149;font-size:13px;font-weight:700}}.total{{fill:#c9d1d9;font-size:13px;text-anchor:end}}.line{{stroke:#30363d;stroke-width:1}}</style><rect width="900" height="590" rx="22" class="bg"/><text x="30" y="42" class="title">GitHub Development Stats</text><text x="30" y="64" class="subtitle">@{esc(USERNAME)} · {d['repos_with_activity']} repos with activity · updated {esc(d['generated_at'])}</text>{''.join(c)}<rect x="30" y="220" width="840" height="335" rx="18" class="panel"/><text x="48" y="255" class="title" style="font-size:17px">Most changed repositories</text><text x="48" y="277" class="subtitle">Additions + deletions from the author's own commits on each repo's default branch</text><line x1="48" y1="286" x2="852" y2="286" class="line"/><text x="48" y="300" class="label">#</text><text x="82" y="300" class="label">REPOSITORY</text><text x="550" y="300" class="label">ADDED</text><text x="660" y="300" class="label">REMOVED</text><text x="780" y="300" class="label">CHANGED</text>{''.join(rows)}<text x="48" y="535" class="muted">Stats are generated automatically from a scheduled job.</text></svg>'''
+    accent='#7ee787'; bg='#0a0e12'; chrome='#11151b'; border='#242c36'; dim='#5b6472'; text='#d0d7de'
+    font='"JetBrains Mono","SFMono-Regular",Consolas,monospace'
+
+    def trunc(s,n): return s if len(s)<=n else s[:n-1]+'…'
+
+    labels=[
+        ('repos with activity',str(d['repos_with_activity'])),
+        ('commits',compact(d['commits'])),
+        ('lines added','+'+compact(d['additions'])),
+        ('lines removed','-'+compact(d['deletions'])),
+        ('pull requests',compact(d['prs'])),
+    ]
+    lines=[('prompt',f'{USERNAME}@github:~$ fetch-stats')]
+    for label,val in labels: lines.append(('out',f'{label.ljust(22)}{val}'))
+    lines.append(('blank',''))
+    lines.append(('dim','top repos by lines changed'))
+    if d['top_repos']:
+        for i,r in enumerate(d['top_repos'],1):
+            name=trunc(r['full_name'].split('/',1)[-1],22)
+            lines.append(('out',f'  {i}. {name.ljust(22)} +{compact(r["additions"])} -{compact(r["deletions"])}'))
+    else:
+        lines.append(('dim','  no repository activity found yet'))
+    lines.append(('blank',''))
+    lines.append(('dim',f'updated {d["generated_at"]}'))
+    lines.append(('prompt',f'{USERNAME}@github:~$ _'))
+
+    font_size=13; line_h=21; pad_x=24; pad_top=22; bar_h=34; width=680
+    height=bar_h+pad_top+len(lines)*line_h+18
+
+    out=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" font-family=\'{font}\' font-size="{font_size}px">']
+    out.append(f'<rect x="0.5" y="0.5" width="{width-1}" height="{height-1}" rx="10" fill="{bg}" stroke="{border}"/>')
+    out.append(f'<path d="M0.5 {bar_h} L0.5 10 Q0.5 0.5 10 0.5 L{width-10} 0.5 Q{width-0.5} 0.5 {width-0.5} 10 L{width-0.5} {bar_h} Z" fill="{chrome}"/>')
+    out.append(f'<line x1="0.5" y1="{bar_h}" x2="{width-0.5}" y2="{bar_h}" stroke="{border}"/>')
+    for i,c in enumerate(('#ff5f56','#ffbd2e','#27c93f')):
+        out.append(f'<circle cx="{20+i*18}" cy="{bar_h/2}" r="6" fill="{c}"/>')
+    out.append(f'<text x="{width/2}" y="{bar_h/2+4}" fill="{dim}" text-anchor="middle" font-size="12px">{esc(USERNAME)}@github — stats</text>')
+
+    y=bar_h+pad_top
+    prompt_prefix=f'{USERNAME}@github:~$ '
+    for kind,content in lines:
+        if kind=='blank': y+=line_h; continue
+        if kind=='prompt':
+            rest=content[len(prompt_prefix):] if content.startswith(prompt_prefix) else content
+            out.append(f'<text x="{pad_x}" y="{y}" xml:space="preserve"><tspan fill="{accent}">{esc(prompt_prefix)}</tspan><tspan fill="{text}">{esc(rest)}</tspan></text>')
+        elif kind=='dim':
+            out.append(f'<text x="{pad_x}" y="{y}" fill="{dim}" xml:space="preserve">{esc(content)}</text>')
+        else:
+            out.append(f'<text x="{pad_x}" y="{y}" fill="{text}" xml:space="preserve">{esc(content)}</text>')
+        y+=line_h
+    out.append('</svg>')
+    return '\n'.join(out)
 
 
 def main():

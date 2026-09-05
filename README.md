@@ -13,16 +13,14 @@ rn im looking Rust its kinda fun.
 
 <div align="center">
 
-## "Socials":
+## "Socials"
+
  Discord: finixtavh <br>
- Soundcloud: https://on.soundcloud.com/qbZYkccaT7DH8W9aAs
-
-
+ Soundcloud: <https://on.soundcloud.com/qbZYkccaT7DH8W9aAs>
 
 <hr>
 
-[![Update GitHub Development Stats.](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml/badge.svg)](https://github.com/finixtavh/finixtavh/actions/workflows/stats.yml)
-
+<img src="./profile/github-stats.svg" alt="GitHub Development Stats">
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-174b8a?style=for-the-badge&logo=powershell&logoColor=black)
@@ -33,9 +31,6 @@ rn im looking Rust its kinda fun.
 ![HTML](https://img.shields.io/badge/HTML-174b8a?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-174b8a?style=for-the-badge&logo=css&logoColor=black)
 
-
-
 ![](https://komarev.com/ghpvc/?username=finixtavh&color=174b8a&style=for-the-badge)
-
 
 </div>

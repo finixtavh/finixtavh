@@ -1,4 +1,4 @@
-name: development stats
+name: Update GitHub Development Stats.
 
 on:
   schedule:

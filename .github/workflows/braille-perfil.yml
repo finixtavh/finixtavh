@@ -17,7 +17,7 @@ on:
 
 env:
   BRAILLE_WIDTH: "1920"       
-  BRAILLE_HEIGHT: "64"     
+  BRAILLE_HEIGHT: "32"     
   BRAILLE_FONT_SIZE: "17"    
   BRAILLE_BG: "212830"       
 

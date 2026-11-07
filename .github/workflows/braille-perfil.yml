@@ -19,7 +19,7 @@ env:
   BRAILLE_WIDTH: "1920"       
   BRAILLE_HEIGHT: "64"     
   BRAILLE_FONT_SIZE: "17"    
-  BRAILLE_BG: "13131e"       
+  BRAILLE_BG: "212830"       
 
 
 permissions:

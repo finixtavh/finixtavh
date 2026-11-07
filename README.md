@@ -1,6 +1,6 @@
 <a href="https://finixtavh.xyz" target="_blank">My Webpage</a>
 <div align="center">
-  <img src="img/braille.png?v=fc2c453c" alt="">
+  <img src="img/braille.png?v=7ab2932a" alt="">
 </div>
 
 o7

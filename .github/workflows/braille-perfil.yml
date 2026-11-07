@@ -2,10 +2,6 @@ name: Braille del perfil
 
 on:
   schedule:
-    # 12:00 hora de Chile (UTC-3, horario de verano actual) = 15:00 UTC.
-    # El cron de GitHub va en UTC y NO sigue el cambio de hora: cuando Chile
-    # pase a UTC-4 (3 de abril de 2027) esto correrá a las 11:00 locales;
-    # para mantener las 12:00 cámbialo a "0 16 * * *".
     - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
@@ -18,13 +14,13 @@ on:
         required: false
         type: string
 
-# ---- Ajustes fáciles de cambiar -------------------------------------------
+
 env:
-  BRAILLE_WIDTH: "512"       # ancho de la imagen en px
-  BRAILLE_HEIGHT: "512"      # alto de la imagen en px
-  BRAILLE_FONT_SIZE: "17"    # tamaño del punto: 17 = puntos de 2 px, 34 = de 4 px
-  BRAILLE_BG: "13131e"       # fondo en hex, sin #. Es opaco para que se vea en tema claro y oscuro
-# ----------------------------------------------------------------------------
+  BRAILLE_WIDTH: "1920"       
+  BRAILLE_HEIGHT: "64"     
+  BRAILLE_FONT_SIZE: "17"    
+  BRAILLE_BG: "13131e"       
+
 
 permissions:
   contents: write            # necesario para que el workflow pueda hacer push
@@ -76,11 +72,8 @@ jobs:
 
       - name: Commit y push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Para que el commit cuente en tu gráfico de contribuciones, usa en cambio:
-          #   git config user.name "finixtavh"
-          #   git config user.email "TU_ID+finixtavh@users.noreply.github.com"
+          git config user.name "finixtavh"
+          git config user.email "id	68766717+finixtavh@users.noreply.github.com"
           git add img/braille.png README.md
           git diff --cached --quiet && exit 0
           git commit -m "chore: nuevo braille del perfil (seed ${{ steps.gen.outputs.seed }})"

@@ -1,4 +1,7 @@
 <a href="https://finixtavh.xyz" target="_blank">My Webpage</a>
+<div align="center">
+  <img src="img/braille.png?v=0" alt="Arte braille aleatorio, se regenera cada 24 h">
+</div>
 
 o7
 I'm lole (aka finixtavh).  

@@ -14,7 +14,7 @@ rn im looking Rust its kinda fun.
 
 <div align="center">
 
-## "Socials"
+# "Socials"
 <div align="center">
   <img src="img/braille.png?v=4467053c" alt="">
 </div>

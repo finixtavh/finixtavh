@@ -13,8 +13,9 @@ I am also learning Python, ~~Powershell~~, Hyprland's Lua, Bash and Linux itself
 rn im looking Rust its kinda fun.
 
 <div align="center">
+  
+<span style="font-size: 24px;">"Socials"</span>
 
-# "Socials"
 <div align="center">
   <img src="img/braille.png?v=4467053c" alt="">
 </div>

@@ -1,7 +1,5 @@
 <a href="https://finixtavh.xyz" target="_blank">My Webpage</a>
-<div align="center">
-  <img src="img/braille.png?v=4467053c" alt="">
-</div>
+
 
 o7
 I'm lole (aka finixtavh).  
@@ -17,11 +15,16 @@ rn im looking Rust its kinda fun.
 <div align="center">
 
 ## "Socials"
+<div align="center">
+  <img src="img/braille.png?v=4467053c" alt="">
+</div>
 
  Discord: finixtavh <br>
  Soundcloud: <https://on.soundcloud.com/qbZYkccaT7DH8W9aAs>
 
-<hr>
+<div align="center">
+  <img src="img/braille.png?v=4467053c" alt="">
+</div>
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-174b8a?style=for-the-badge&logo=powershell&logoColor=black)

@@ -12,11 +12,15 @@ Currently studying programming and looking to move onto Cybersecurity.
 I am also learning Python, ~~Powershell~~, Hyprland's Lua, Bash and Linux itself (I use arch AND hyprland BTW)
 rn im looking Rust its kinda fun.
 
-<div align="center">
-  
-<span style="font-size: 24px;">"Socials"</span>
 
 <div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="50">
+  <text x="0" y="35" font-size="24" fill="#ffffff">
+    "Socials"
+  </text>
+</svg>
+
+
   <img src="img/braille.png?v=4467053c" alt="">
 </div>
 

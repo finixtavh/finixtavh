@@ -15,7 +15,7 @@ rn im looking Rust its kinda fun.
 
 <div align="center">
 
-
+![socials](socials.svg)
 
   <img src="img/braille.png?v=4467053c" alt="">
 </div>

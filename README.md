@@ -17,14 +17,14 @@ rn im looking Rust its kinda fun.
 
 ![socials](socials.svg)
 
-  <img src="img/braille.png?v=104edf1d" alt="">
+  <img src="img/braille.png?v=b7c5b34f" alt="">
 </div>
 
  Discord: finixtavh <br>
  Soundcloud: <https://on.soundcloud.com/qbZYkccaT7DH8W9aAs>
 
 <div align="center">
-  <img src="img/braille.png?v=104edf1d" alt="">
+  <img src="img/braille.png?v=b7c5b34f" alt="">
 </div>
 
 ![Python](https://img.shields.io/badge/Python-174b8a?style=for-the-badge&logo=python&logoColor=black)
